@@ -6,3 +6,8 @@
 
 # IDE files
 /.idea
+/data/*
+!*.py
+!*.ipynb
+!*.lock
+!*.toml

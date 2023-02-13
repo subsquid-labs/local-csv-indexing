@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "data-analysis"
+version = "0.1.0"
+description = "Analysing Transfers of MATIC token on Ethereum mainnet"
+authors = ["Massimo Luraschi <massimo.lura@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.3"
+matplotlib = "^3.7.0"
+ipython = "^8.10.0"
+ipykernel = "^6.21.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
