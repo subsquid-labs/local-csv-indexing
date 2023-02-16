@@ -4,7 +4,7 @@ export const Transfers = new Table(
     'transfers.csv',
     {
         blockNumber: Column(Types.Integer()),
-        timestamp: Column(Types.DateTime()),
+        timestamp: Column(Types.Timestamp()),
         contractAddress: Column(Types.String()),
         from: Column(Types.String()),
         to: Column(Types.String()),
