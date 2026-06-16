@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Twitter](https://twitter.com/subsquid) | [Discord](https://discord.gg/subsquid) | [LinkedIn](https://linkedin.com/subsquid) | [Telegram](https://t.me/HydraDevs) | [GitHub](https://github.com/subsquid) | [YouTube](https://www.youtube.com/@subsquid)
+[Twitter](https://twitter.com/subsquid) | [LinkedIn](https://linkedin.com/subsquid) | [Telegram](https://t.me/HydraDevs) | [GitHub](https://github.com/subsquid) | [YouTube](https://www.youtube.com/@subsquid)
 
 </div>
 
